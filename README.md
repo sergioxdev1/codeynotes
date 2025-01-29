@@ -53,34 +53,41 @@ src/
 ├── styles/          # Tailwind style files
 ├── utils/           # Helper functions
 └── App.tsx          # Root component
+```
 
+## 🖥️ Getting Started
 
-🖥️ Getting Started
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sergioxdev-code-notes.git
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-Start the development server:
-bash
-Copy
-Edit
-npm run dev
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/sergioxdev-code-notes.git
+   ```
 
-🌐 Supabase Integration
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## 🌐 Supabase Integration
 This project uses Supabase for handling data and authentication. Be sure to configure your credentials in a .env file as outlined in the official documentation.
 
-🌟 Contributions
+---
+
+## 🌟 Contributions
 Contributions are welcome! If you have suggestions or encounter any issues, please open an issue or create a pull request. 🙌
 
-📝 License
+---
+
+## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Enjoy building with SergioXDev - Code & Notes! 🚀
-Enjoy building with SergioXDev - Code & Notes! 🚀
+---
+
+## Enjoy building with SergioXDev - Code & Notes! 🚀
+
+---
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sergioxdev1/codeynotes)
