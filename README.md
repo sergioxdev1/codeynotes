@@ -1,13 +1,11 @@
 # codeynotes
 
 #  SergioXDev - Code & Notes
-   _____          _                     _   _       _            
-  / ____|        | |            ___    | \ | |     | |           
- | |     ___   __| | ___ ___   ( _ )   |  \| | ___ | |_ ___ ___  
- | |    / _ \ / _` |/ _ / __|  / _ \/\ | . ` |/ _ \| __/ _ / __| 
- | |___| (_) | (_| |  __\__ \ | (_>  < | |\  | (_) | ||  __\__ \ 
-  \_____\___/ \__,_|\___|___/  \___/\/ |_| \_|\___/ \__\___|___/                                                               
-
+  ___ __ ____ ____ ____     ___    __ _  __ ____ ____ ____       
+ / __/  (    (  __/ ___)   ( _ \  (  ( \/  (_  _(  __/ ___)      
+( (_(  O ) D () _)\___ \  / _  /  /    (  O ))(  ) _)\___ \      
+ \___\__(____(____(____/  \__\_)  \_)__)\__/(__)(____(____/      
+ 
 **SergioXDev - Code & Notes** is an online code editor designed to provide a smooth, modern, and fully functional experience for developers. This project leverages cutting-edge technologies such as **TypeScript**, **Vite**, **TailwindCSS**, and **Supabase** to create a powerful and versatile tool.
 
 ---
